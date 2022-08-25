@@ -15,11 +15,11 @@
 - I learned how to arrange components with flexbox, usage of media query, usage of flex wrap where ever needed and solved many bugs while building webpage.
 
 ## Time taken
-- It took me around  hours to built this website from scratch.
+- It took me around 5 hours to built this website from scratch.
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://business-landing-page-shriram.netlify.app/)
+- [source](https://github.com/RAM844/Business-Landing-Page)
 
 
 ## Contact me
